@@ -6,7 +6,8 @@
 
 // the setup function runs once when you press reset or power the board
 void setup() {
-	int t = 0;
+	int t = 2;
+	inp p = 3;
 }
 
 // the loop function runs over and over again until power down or reset
